@@ -1,0 +1,51 @@
+{
+ "schema": 1,
+ "version": "2026-11-06.1",
+ "records_through": "2026-11-06",
+ "published": "2026-11-06T22:22:48Z",
+ "min_app_build": 1,
+ "files": {
+  "detail-lakes-region-mount-washington-valley": {
+   "path": "detail-lakes-region-mount-washington-valley-e34375e245c5.json",
+   "sha256": "e34375e245c59edce7b279087a7d9e36a574a30a7eabab3af58588570ca46cbe",
+   "bytes": 27137,
+   "rows": 412
+  },
+  "detail-merrimack-valley": {
+   "path": "detail-merrimack-valley-dc2af97452d3.json",
+   "sha256": "dc2af97452d3767484a36f76287f025753efc9227d0765ffa37ac3b280cfd190",
+   "bytes": 79509,
+   "rows": 1142
+  },
+  "detail-monadnock-sunapee": {
+   "path": "detail-monadnock-sunapee-59df8e497921.json",
+   "sha256": "59df8e49792187789d2eb8a4b3fc02ff9685ef54c15f7c041f46f8578ce04ba3",
+   "bytes": 13379,
+   "rows": 213
+  },
+  "detail-seacoast": {
+   "path": "detail-seacoast-947514a73e24.json",
+   "sha256": "947514a73e245f65b145fc1f7f95fc35ed32e72198b7fefa24f6071fe925238b",
+   "bytes": 75487,
+   "rows": 1096
+  },
+  "detail-white-mountains-north-country": {
+   "path": "detail-white-mountains-north-country-090283d09689.json",
+   "sha256": "090283d096894cb35cdce2b9495d22a11fe950f2547855093f38618e8f6a8d0b",
+   "bytes": 23794,
+   "rows": 376
+  },
+  "places": {
+   "path": "places-7466c7ee6154.json",
+   "sha256": "7466c7ee615431eb43d820f8a3e8f74bc34f9105d8166b773f333b841ddc652e",
+   "bytes": 526211,
+   "rows": 3318
+  }
+ },
+ "counts": {
+  "places": 3318,
+  "files": 6,
+  "bytes": 745517,
+  "restaurants": 3221
+ }
+}

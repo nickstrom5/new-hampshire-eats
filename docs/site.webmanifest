@@ -1,0 +1,21 @@
+{
+  "name": "Granite State Eats",
+  "short_name": "NH Eats",
+  "description": "Ice cream, lobster & pancakes: a guide to 3,221 New Hampshire restaurants.",
+  "start_url": "/new-hampshire-eats/",
+  "display": "browser",
+  "background_color": "#fbf7ee",
+  "theme_color": "#1f3a5f",
+  "icons": [
+    {
+      "src": "/new-hampshire-eats/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/new-hampshire-eats/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

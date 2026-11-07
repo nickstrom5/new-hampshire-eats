@@ -1,0 +1,107 @@
+{
+ "generated": "2026-11-06",
+ "domain": "https://nickstrom5.github.io/new-hampshire-eats",
+ "restaurants": 3221,
+ "places_incl_hidden": 3318,
+ "towns": 187,
+ "counties": 10,
+ "on_an_official_list": 0,
+ "hand_checked_on_a_guide": 71,
+ "serves_alcohol_state_license": 0,
+ "guide_icecream": 51,
+ "guide_seafood": 11,
+ "guide_pancakes": 8,
+ "oldest": 3,
+ "honors": 5,
+ "michelin": {},
+ "james_beard": 5,
+ "americas_classics": 1,
+ "permits_updated": "",
+ "city_pages": {
+  "Rye": {
+   "restaurants": 21,
+   "listed": 6,
+   "icecream": 1,
+   "seafood": 5,
+   "pancakes": 0,
+   "hon": 0,
+   "oldest": 0
+  }
+ },
+ "cities_without_a_page": {
+  "Manchester": 2,
+  "Portsmouth": 2,
+  "Nashua": 2,
+  "Concord": 1,
+  "Conway": 1,
+  "Hampton": 3,
+  "Laconia": 3,
+  "Keene": 2,
+  "Hanover": 0,
+  "Dover": 3,
+  "Salem": 1,
+  "Wolfeboro": 1,
+  "Lebanon": 0,
+  "Seabrook": 2,
+  "Exeter": 1,
+  "Sunapee": 2,
+  "Sandwich": 2,
+  "Peterborough": 1,
+  "Bethlehem": 1
+ },
+ "noindex_pages": [],
+ "web_app_data_bytes": {
+  "data/core.json": {
+   "raw": 244760,
+   "gzip": 56938
+  },
+  "data/detail-belknap-county.json": {
+   "raw": 11680,
+   "gzip": 3308
+  },
+  "data/detail-carroll-county.json": {
+   "raw": 12437,
+   "gzip": 3533
+  },
+  "data/detail-cheshire-county.json": {
+   "raw": 8208,
+   "gzip": 2497
+  },
+  "data/detail-coos-county.json": {
+   "raw": 4614,
+   "gzip": 1477
+  },
+  "data/detail-grafton-county.json": {
+   "raw": 16313,
+   "gzip": 4539
+  },
+  "data/detail-hillsborough-county.json": {
+   "raw": 50969,
+   "gzip": 12929
+  },
+  "data/detail-merrimack-county.json": {
+   "raw": 18849,
+   "gzip": 5235
+  },
+  "data/detail-rockingham-county.json": {
+   "raw": 49794,
+   "gzip": 12916
+  },
+  "data/detail-strafford-county.json": {
+   "raw": 15531,
+   "gzip": 4191
+  },
+  "data/detail-sullivan-county.json": {
+   "raw": 3920,
+   "gzip": 1247
+  },
+  "data/ids.json": {
+   "raw": 41901,
+   "gzip": 24668
+  },
+  "data/nh_shapes.json": {
+   "raw": 20331,
+   "gzip": 4353
+  }
+ }
+}
